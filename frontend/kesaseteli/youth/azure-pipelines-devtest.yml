@@ -44,6 +44,7 @@ resources:
     type: git
     # Azure DevOps project/repository
     name: yjdh/yjdh-kesaseteli-pipelines
+    ref: refs/heads/ARO-1487
 
 extends:
   # Filename in Azure DevOps Repository (note possible -ui or -api)
